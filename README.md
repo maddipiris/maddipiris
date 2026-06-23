@@ -10,7 +10,7 @@
 </div>
 
 <h3 align="left">about me</h3>
-★ 📁 Currently working on **HarvardX: CS50's Introduction to Computer Science** </p>
+★ 📁 Currently working on: CS50's Introduction to Artificial Intelligence with Python </p>
 ★ 💾 4 years coding on Python through multiple courses + projects </p>
 ★ 💿 Started my journey learning Scratch on my own when I was 7! </p>
 ★ 🪐 Contact me through my email: pirismaddi@gmail.com </p>
